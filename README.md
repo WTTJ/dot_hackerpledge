@@ -20,13 +20,17 @@ F.A.Q
  
 **Does this pledge have legal status?**
 
-No. Still represents a strong, public commitment towards a hacker-friendly culture in the workplace.
+No. Still, it represents a strong, public commitment towards a hacker-friendly culture in the workplace.
 
 **As a company, how do I support the pledge?**
 
 We will announce an "official" protocol to publicly support the pledge, with a directory of companies having done so. It will probably consist of a tweet sent from the official company account and possibly a badge.
 
 In the meantime, please contact us at contact@dotconferences.eu to be among the launch companies.
+
+**As a hacker, how do I support the pledge?**
+
+About the same. We should work on a good wording for a tweet to show support, something like "I would strongly prefer working in a company supporting the Hacker Pledge".
 
 **Why did you create this pledge?**
 
