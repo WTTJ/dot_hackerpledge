@@ -9,6 +9,9 @@ The pledges
 ===========
 
  1. Curiosity and initiative should be encouraged and rewarded.
+   * Hackers should be free to take the time to read technological news.
+   * Hackers should be given time to explore new technologies and product ideas.
+   * Hackers should encouraged to share their knowledge with other members of the company.
  2. Hackers should be free to choose their tools, both hardware and software.
  3. Hackers should be allowed to attend a few conferences a year on their work time.
  4. Giving back to the community should be encouraged, through open sourcing of projects or support of community organizations.
