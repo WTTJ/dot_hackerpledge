@@ -8,11 +8,11 @@ This is a living, versioned document based on broad consensus from a community o
 The pledges
 ===========
 
- * Curiosity and initiative should be encouraged and rewarded.
- * Hackers should be free to choose their tools, both hardware and software.
- * Hackers should be allowed to attend a few conferences a year on their work time.
- * Giving back to the community should be encouraged, through open sourcing of projects or support of community organizations.
- * Hackers (and everyone else!) should be treated without discrimination regarding gender, ethnic minority or beliefs.
+ 1. Curiosity and initiative should be encouraged and rewarded.
+ 2. Hackers should be free to choose their tools, both hardware and software.
+ 3. Hackers should be allowed to attend a few conferences a year on their work time.
+ 4. Giving back to the community should be encouraged, through open sourcing of projects or support of community organizations.
+ 5. Hackers (and everyone else!) should be treated without discrimination regarding gender, ethnic minority or beliefs.
 
 
 F.A.Q
