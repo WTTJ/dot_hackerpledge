@@ -5,6 +5,11 @@ This document is a list of pledges that a company is willing to make to its engi
 
 This is a living, versioned document based on broad consensus from a community of hackers.
 
+Why it matters
+===========
+
+Hiring good developers is tough, but it's even more difficult to keep them productive. Following this guide can ensure you that your technical team is happy and doing the best work they can.
+
 The pledges
 ===========
 
