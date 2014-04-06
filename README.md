@@ -13,32 +13,19 @@ As a company, we pledge to support:
 
  1. **Curiosity & initiative**
 
-  Creativity is a critical part of programming and needs to be stimulated. Specifically, hackers should be encouraged to:
-
-   * Read technological news & keep their skills up-to-date
-   * Spend some time to explore new technologies and contribute some product ideas.
-   * Attend a few conferences a year on their work time.
+  Creativity is a critical part of programming and should be stimulated by regularly reading tech news, exploring new software, attending a few conferences a year and keeping skills up-to-date. Hackers are expected to contribute product ideas and challenge the status quo.
 
  2. **High-productivity working conditions**
 
-   * Hackers should have the freedom to choose their tools, while they remain compatible with collaboration.
-   * The best tools available should be used as they contribute a lot to productivity and happiness.
-   * This applies to both hardware & software tools.
-   * A quiet and stress-free environment should be maintained.
+  Hackers should be free to choose the best tools available, both software and hardware. To avoid interrupts, their environment should be as quiet and stress-free as possible.
 
  3. **Openness & freedom of speech**
 
-  Sharing ideas and knowledge about technological details should be encouraged:
-   * Internally, in meetings and presentations
-   * Externally, through meetups with other hackers, provided confidential aspects are agreed upon and respected.
+  Provided confidential aspects of the company business are agreed upon, sharing ideas and knowledge about technology should be encouraged both internally and externally through meetups and exchanges with other hackers.
 
  4. **Giving back to the community**
 
-  Every company using Open Source Software owes a lot to the community. Ways to give back include:
-
-   * Open-sourcing some internal projects
-   * Sponsoring projects, meetups or conferences
-   * Supporting community organizations
+  Every company using Free Software owes a lot to the community and should try to give back by open-sourcing internal projects, sponsoring meetups or conferences, and supporting community organizations.
 
 
 F.A.Q
@@ -47,6 +34,12 @@ F.A.Q
 **Does this pledge have legal status?**
 
 No. Still, it represents a strong, public commitment towards a hacker-friendly culture in the workplace.
+
+**What is the value of this pledge?**
+
+Supporting this pledge means two things for a company:
+ * it shares most of the values of the hacker community.
+ * it is actually capable of coming out publicly to support them. Most large companies sunk in bureaucracy wouldn't be able to.
 
 **As a company, how do I support the pledge?**
 
@@ -64,8 +57,11 @@ As conference organizers (http://dotconferences.eu), we often see cases where co
 
 **Shouldn't inclusiveness and non-discrimination be part of the pledge?**
 
-Everyone (not just hackers!) should be treated without discrimination regarding gender, ethnic minority or beliefs. This pledge only tries to cover the hacker-specific points.
+Everyone (not just hackers!) should be treated without discrimination regarding gender, ethnic minority or beliefs. This pledge only covers hacker-specific points.
 
+**Why don't you mention comfortable chairs?**
+
+Same reason. The health of a hacker is not more valuable than any other employee.
 
 How to contribute
 =================
