@@ -1,31 +1,49 @@
-The Hacker Pledge v0.1
+The Hacker Pledge v0.2
 ======================
 
 This document is a list of pledges that a company is willing to make to its engineers so they can thrive and continue developing their skills, to their common benefit.
 
-This is a living, versioned document based on broad consensus from a community of hackers.
+This is a living, versioned document based on broad consensus from a community of hackers. Following this guide can ensure you that your technical team is happy and doing the best work they can.
 
-Why it matters
-===========
-
-Hiring good developers is tough, but it's even more difficult to keep them productive. Following this guide can ensure you that your technical team is happy and doing the best work they can.
 
 The pledges
 ===========
 
- 1. Curiosity and initiative should be encouraged and rewarded.
-   * Hackers should be free to take the time to read technological news.
-   * Hackers should be given time to explore new technologies and product ideas.
-   * Hackers should be encouraged to share their knowledge with other members of the company.
- 2. Hackers should be free to choose their tools, both hardware and software.
- 3. Hackers should be allowed to attend a few conferences a year on their work time.
- 4. Giving back to the community should be encouraged, through open sourcing of projects or support of community organizations.
- 5. Hackers (and everyone else!) should be treated without discrimination regarding gender, ethnic minority or beliefs.
+As a company, we pledge to support:
+
+ 1. **Curiosity & initiative**
+
+  Creativity is a critical part of programming and needs to be stimulated. Specifically, hackers should be encouraged to:
+
+   * Read technological news & keep their skills up-to-date
+   * Spend some time to explore new technologies and contribute some product ideas.
+   * Attend a few conferences a year on their work time.
+
+ 2. **High-productivity working conditions**
+
+   * Hackers should have the freedom to choose their tools, while they remain compatible with collaboration.
+   * The best tools available should be used as they contribute a lot to productivity and happiness.
+   * This applies to both hardware & software tools.
+   * A quiet and stress-free environment should be maintained.
+
+ 3. **Openness & freedom of speech**
+
+  Sharing ideas and knowledge about technological details should be encouraged:
+   * Internally, in meetings and presentations
+   * Externally, through meetups with other hackers, provided confidential aspects are agreed upon and respected.
+
+ 4. **Giving back to the community**
+
+  Every company using Open Source Software owes a lot to the community. Ways to give back include:
+
+   * Open-sourcing some internal projects
+   * Sponsoring projects, meetups or conferences
+   * Supporting community organizations
 
 
 F.A.Q
 =====
- 
+
 **Does this pledge have legal status?**
 
 No. Still, it represents a strong, public commitment towards a hacker-friendly culture in the workplace.
@@ -43,6 +61,10 @@ About the same. We should work on a good wording for a tweet to show support, so
 **Why did you create this pledge?**
 
 As conference organizers (http://dotconferences.eu), we often see cases where companies are not educated towards the benefits of rewarding curiosity, initiative and openness of their engineers. We think it is mutually beneficial to have a hacker-friendly workplace and we hope to set a baseline for what this actually means.
+
+**Shouldn't inclusiveness and non-discrimination be part of the pledge?**
+
+Everyone (not just hackers!) should be treated without discrimination regarding gender, ethnic minority or beliefs. This pledge only tries to cover the hacker-specific points.
 
 
 How to contribute
