@@ -3,29 +3,27 @@ The Hacker Pledge v0.2
 
 This document is a list of pledges that a company is willing to make to its engineers so they can thrive and continue developing their skills, to their common benefit.
 
-This is a living, versioned document based on broad consensus from a community of hackers. Following this guide can ensure you that your technical team is happy and doing the best work they can.
+This is a living, versioned, document based on a broad consensus from a community of hackers. We believe not only taking the pledge but also following its principles will help your technical team be happy and do the best work they can.
 
 
-The pledges
+Our pledge
 ===========
-
-As a company, we pledge to support:
 
  1. **Curiosity & initiative**
 
-  Creativity is a critical part of programming and should be stimulated by regularly reading tech news, exploring new software, attending a few conferences a year and keeping skills up-to-date. Hackers are expected to contribute product ideas and challenge the status quo.
+  We want hackers to contribute product ideas and challenge the status quo, as technology moves fast we make sure they have time to read tech news and explore new software. We consider these activities to be working time. 
 
  2. **High-productivity working conditions**
 
-  Hackers should be free to choose the best tools available, both software and hardware. To avoid interrupts, their environment should be as quiet and stress-free as possible.
+  We support a hacker's ability to choose the best tools available, both software and hardware. We know interuptions to be harmful to productivity, we try to provide as quiet and as stress-free environment as possible.
 
  3. **Openness & freedom of speech**
 
-  Provided confidential aspects of the company business are agreed upon, sharing ideas and knowledge about technology should be encouraged both internally and externally through meetups and exchanges with other hackers.
+  Some of the aspects of our company are secret, we expect our employees to respect that, beyond those we encourage our staff to share ideas about technology through meetups and exchanges with other hackers. We do not block IRC.
 
  4. **Giving back to the community**
 
-  Every company using Free Software owes a lot to the community and should try to give back by open-sourcing internal projects, sponsoring meetups or conferences, and supporting community organizations.
+  Free Software is often critical to a hacker's ability to do his job, we strive to give back by contributing upstream, open-sourcing internal projects and sponsoring meetups, community organizations or conferences.
 
 
 F.A.Q
