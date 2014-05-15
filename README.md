@@ -1,31 +1,31 @@
-The Hacker Pledge v0.2
+The Hacker Pledge v0.3
 ======================
 
-This document is a list of pledges that a company is willing to make to its engineers so they can thrive and continue developing their skills, to their common benefit.
+This document describes a pledge that a company is willing to make to its engineers so they can thrive and continue developing their skills, to their common benefit.
 
-This is a living, versioned document based on broad consensus from a community of hackers. Following this guide can ensure you that your technical team is happy and doing the best work they can.
+This is a living document based on a broad consensus from a community of hackers. We believe that taking the pledge and following its principles will help technical teams be happy and do the best work they can.
 
 
-The pledges
-===========
+The pledge
+==========
 
 As a company, we pledge to support:
 
- 1. **Curiosity & initiative**
+ 1. **Initiative & curiosity**
 
-  Creativity is a critical part of programming and should be stimulated by regularly reading tech news, exploring new software, attending a few conferences a year and keeping skills up-to-date. Hackers are expected to contribute product ideas and challenge the status quo.
-
+  We expect hackers to be creative, contribute product ideas, and challenge the status quo. We encourage them to read tech news, explore new software, and attend a few conferences a year on their work time to keep their skills up-to-date.
+  
  2. **High-productivity working conditions**
 
-  Hackers should be free to choose the best tools available, both software and hardware. To avoid interrupts, their environment should be as quiet and stress-free as possible.
-
+  We let hackers choose the best tools available, both software and hardware. To avoid interrupts and foster high-quality work, we strive to provide an environment as calm and stress-free as possible.
+  
  3. **Openness & freedom of speech**
 
-  Provided confidential aspects of the company business are agreed upon, sharing ideas and knowledge about technology should be encouraged both internally and externally through meetups and exchanges with other hackers.
+  We encourage our staff to share ideas and knowledge about technology through meetups and exchanges with other hackers,  while respecting the company's expectations for confidentiality.
 
  4. **Giving back to the community**
 
-  Every company using Free Software owes a lot to the community and should try to give back by open-sourcing internal projects, sponsoring meetups or conferences, and supporting community organizations.
+  Given how essential Free Software is to a hacker's work, we strive to give back by contributing upstream, open-sourcing internal projects, and sponsoring conferences or community organizations.
 
 
 F.A.Q
@@ -33,35 +33,41 @@ F.A.Q
 
 **Does this pledge have legal status?**
 
-No. Still, it represents a strong, public commitment towards a hacker-friendly culture in the workplace.
+No. Still, it represents a strong public commitment towards a hacker-friendly culture in your workplace.
 
-**What is the value of this pledge?**
+**So what is the value of this pledge?**
 
 Supporting this pledge means two things for a company:
  * it shares most of the values of the hacker community.
- * it is actually capable of coming out publicly to support them. Most large companies sunk in bureaucracy wouldn't be able to.
+ * it is actually capable of coming out publicly to support them. Some large companies sunk in bureaucracy wouldn't be able to.
 
 **As a company, how do I support the pledge?**
 
-We will announce an "official" protocol to publicly support the pledge, with a directory of companies having done so. It will probably consist of a tweet sent from the official company account and possibly a badge.
-
-In the meantime, please contact us at contact@dotconferences.eu to be among the launch companies.
+You just have to send a tweet from your official company account! Recommended wording is:
+ 
+ We support the @hackerpledge to provide a great environment for our engineers! http://hackerpledge.org
+ 
+After doing so you will be added to a public directory of companies supporting the pledge. Check http://hackerpledge.org for updates!
 
 **As a hacker, how do I support the pledge?**
 
-About the same. We should work on a good wording for a tweet to show support, something like "I would strongly prefer working in a company supporting the Hacker Pledge".
+Spread the word! Tweeting that you would strongly prefer working in a company supporting the @hackerpledge would really be helpful :)
 
 **Why did you create this pledge?**
 
-As conference organizers (http://dotconferences.eu), we often see cases where companies are not educated towards the benefits of rewarding curiosity, initiative and openness of their engineers. We think it is mutually beneficial to have a hacker-friendly workplace and we hope to set a baseline for what this actually means.
+As conference organizers (we run http://dotconferences.eu), we often see companies where executives are not educated towards the benefits of rewarding curiosity, initiative and openness with their engineers. We think it is mutually beneficial to have a hacker-friendly workplace and we hope to set a baseline for what this actually means.
 
 **Shouldn't inclusiveness and non-discrimination be part of the pledge?**
 
-Everyone (not just hackers!) should be treated without discrimination regarding gender, ethnic minority or beliefs. This pledge only covers hacker-specific points.
+Everyone (not just hackers!) should be treated without discrimination regarding gender, ethnic minority or beliefs. This pledge only covers hacker-specific principles.
 
 **Why don't you mention comfortable chairs?**
 
-Same reason. The health of a hacker is not more valuable than any other employee.
+Same reason. The health of a hacker is not more valuable than any other employee!
+
+**Who can I contact if I have feedback or questions on the Hacker Pledge?**
+
+You can tweet to @hackerpledge or email us at contact@hackerpledge.org
 
 How to contribute
 =================
