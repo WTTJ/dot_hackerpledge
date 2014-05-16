@@ -13,15 +13,15 @@ As a company, we pledge to support:
 
  1. **Initiative & curiosity**
 
-  We expect hackers to be creative, contribute product ideas, and challenge the status quo. We encourage them to read tech news, explore new software, and attend a few conferences a year on their work time to keep their skills up-to-date.
+  We expect hackers to be creative, contribute product ideas, and challenge the status quo. We encourage them to read tech news, explore new software, and attend a few events a year on their work time to keep their skills up-to-date.
   
  2. **High-productivity working conditions**
 
-  We let hackers choose the best tools available, both software and hardware. To avoid interrupts and foster high-quality work, we strive to provide an environment as calm and stress-free as possible.
+  We let hackers choose the best tools available, both software and hardware. To avoid interrupts and foster high-quality work, we provide an environment as calm and stress-free as possible.
   
  3. **Openness & freedom of speech**
 
-  We encourage our staff to share ideas and knowledge about technology through meetups and exchanges with other hackers,  while respecting the company's expectations for confidentiality.
+  We encourage our staff to share ideas and knowledge about technology through meetups and exchanges with other hackers, while respecting the company's expectations for confidentiality.
 
  4. **Giving back to the community**
 
@@ -45,7 +45,7 @@ Supporting this pledge means two things for a company:
 
 You just have to send a tweet from your official company account! Recommended wording is:
  
- We support the @hackerpledge to provide a great environment for our engineers! http://hackerpledge.org
+> We support the @hackerpledge to provide a great environment for our engineers! http://hackerpledge.org
  
 After doing so you will be added to a public directory of companies supporting the pledge. Check http://hackerpledge.org for updates!
 
