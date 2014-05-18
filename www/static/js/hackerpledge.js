@@ -17,3 +17,13 @@ $(function() {
         event.preventDefault();
     });
 });
+
+$(document).ready(function () {
+    $(".navbar li a").click(function(event) {
+
+        if ($(".navbar-toggle").is(":visible")) {
+            $(".navbar-toggle").click();
+        }
+
+    });
+});

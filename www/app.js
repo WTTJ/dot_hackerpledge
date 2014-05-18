@@ -7,10 +7,10 @@ if (process.env["NODE_ENV"] != "production") {
   lesswatch("node_modules/.bin/lessc", [__dirname + "/static/less", __dirname + "/static/css"]);
 }
 
-var oneDay = 86400000;
+var oneHour = 3600 * 1000;
 
 app.use(express.compress());
 
-app.use(express.static(__dirname + '/static', { maxAge: oneDay }));
+app.use(express.static(__dirname + '/static', { maxAge: oneHour }));
 
 app.listen(process.env.PORT || 3000);

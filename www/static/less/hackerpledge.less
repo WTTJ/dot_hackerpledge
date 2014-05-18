@@ -35,7 +35,7 @@ html {
 h1,
 h2,
 {
-    margin: 0 0 35px;
+    margin: 0 0 20px;
     text-transform: uppercase;
     font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -100,12 +100,6 @@ a:focus {
     float:none;
 }
 
-.navbar-brand img {
-    height:150px;
-    -webkit-transition: height .1s ease-in-out;
-    -moz-transition: height .1s ease-in-out;
-    transition: height .1s ease-in-out;
-}
 
 .navbar-brand:focus {
     outline: none;
@@ -126,6 +120,7 @@ a:focus {
 .navbar-custom .nav li.active {
     outline: none;
     background-color: rgba(255,255,255,0.2);
+    color: @primary;
 }
 
 .navbar-toggle {
@@ -144,6 +139,28 @@ a:focus {
     margin:0;
 }
 
+.content-section {
+    padding-top: 20px;
+    margin-top:20px;
+}
+
+.about-section {
+    p {
+        font-size: 20px;
+    }
+
+}
+
+
+.pledge-section {
+    border: 1px solid #F0F0F0;
+    background-color:#FAFAFA;
+
+    p {
+        font-size:17px;
+    }
+}
+
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -156,8 +173,12 @@ a:focus {
         transition: background .5s ease-in-out,padding .5s ease-in-out;
     }
 
-    .top-nav-collapse {
 
+    .navbar-brand img {
+        height:150px;
+        -webkit-transition: height .1s ease-in-out;
+        -moz-transition: height .1s ease-in-out;
+        transition: height .1s ease-in-out;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -196,124 +217,53 @@ a:focus {
             top:-80px;
         }
     }
-}
 
-@media(min-width:767px) {
+    .about-section {
+        padding-top: 280px;
+    }
 
     .brand-heading {
         font-size: 100px;
     }
 
-}
-
-@-webkit-keyframes pulse {
-    0 {
-        -webkit-transform: scale(1);
-        transform: scale(1);
+    .navbar-title {
+        display:none;
     }
 
-    50% {
-        -webkit-transform: scale(1.2);
-        transform: scale(1.2);
-    }
 
-    100% {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-    }
-}
-
-@-moz-keyframes pulse {
-    0 {
-        -moz-transform: scale(1);
-        transform: scale(1);
-    }
-
-    50% {
-        -moz-transform: scale(1.2);
-        transform: scale(1.2);
-    }
-
-    100% {
-        -moz-transform: scale(1);
-        transform: scale(1);
-    }
 }
 
 
-@media(min-width:767px) {
-    .content-section {
-        padding-top: 20px;
-        margin-top:20px;
+@media(max-width:767px) {
+
+    .navbar {
+        background:#F5F5F5;
+    }
+
+    .navbar-header {
+        width:100%;
+
+    }
+    .navbar-brand img {
+        height:50px;
+        float:left;
+        margin-right:20px;
+    }
+    .navbar-brand {
+        width:320px;
+        line-height:50px;
+    }
+    .navbar-toggle {
+        padding-top:20px;
+    }
+
+    a.github-fork {
+        display:none !important;
     }
 
     .about-section {
-        p {
-            font-size: 20px;
-        }
-
-        padding-top: 280px;
-    }
-
-}
-
- // Buttons
-
- .btn {
-    text-transform: uppercase;
-    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
-}
-
-.btn-default {
-    border: 1px solid @primary;
-    color: @primary;
-    background-color: transparent;
-}
-
-.btn-default:hover,
-.btn-default:focus {
-    border: 1px solid @primary;
-    outline: none;
-    color: @dark;
-    background-color: @primary;
-}
-
-.btn-huge {
-    padding: 25px;
-    font-size: 26px;
-}
-
-.banner-social-buttons {
-    margin-top: 0;
-}
-
-@media(max-width:1199px) {
-    ul.banner-social-buttons {
-        margin-top: 15px;
+        padding-top: 80px;
     }
 }
 
-@media(max-width:767px) {
-    ul.banner-social-buttons > li {
-        display: block;
-        margin-bottom: 20px;
-        padding: 0;
-    }
 
-    ul.banner-social-buttons > li:last-child {
-        margin-bottom: 0;
-    }
-}
-
-.pledge-section {
-    border: 1px solid #F0F0F0;
-    background-color:#FAFAFA;
-
-    p {
-        font-size:17px;
-    }
-}
