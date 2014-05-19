@@ -35,7 +35,7 @@ See http://hackerpledge.org/
 How to contribute
 =================
 
-This is a community-driven project, and we welcome all contributions directly on GitHub as Pull Requests. Please explain the rationale behind your ideas a bit more than you would for a regular PR though ;)
+This is a community-driven project, and we welcome all contributions directly on GitHub as Pull Requests on the README.md file. Please explain the rationale behind your ideas a bit more than you would for a regular PR though ;)
 
 (Contributions on wording & style are also welcome.)
 
