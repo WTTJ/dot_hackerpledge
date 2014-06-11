@@ -18,6 +18,11 @@ $(function() {
     });
 });
 
+function shuffle(o){ //v1.0
+    for(var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+    return o;
+};
+
 $(document).ready(function () {
     $(".navbar li a").click(function(event) {
 
@@ -25,5 +30,20 @@ $(document).ready(function () {
             $(".navbar-toggle").click();
         }
 
+    });
+
+    $(".companies-list").html("Loading...");
+    $.get("/api/pledge/all", function(pledges) {
+        pledges = shuffle(pledges);
+
+        var html = "";
+        for (var i=0;i<pledges.length;i++) {
+            html += "<div class='companies-list-one'>\
+                <div class='company-image'><a target='_blank' href='"+pledges[i].url+"'><img src='"+pledges[i].picture+"' /></a></div>\
+                <div class='company-name'><a target='_blank' href='"+pledges[i].url+"'>"+pledges[i].name+"</a></div>\
+            </div>";
+        }
+
+        $(".companies-list").html(html);
     });
 });
