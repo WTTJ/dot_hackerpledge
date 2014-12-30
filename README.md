@@ -1,7 +1,7 @@
 The Hacker Pledge v1.0
 ======================
 
-The Hacker Pledge is a public commitment from a company to provide a hacker-friendly workplace for its engineers so they can thrive and continue improving their skills, to their common benefit.
+The Hacker Pledge is a public commitment from a company to provide a hacker-friendly workplace for its employees so they can thrive and continue improving their skills, to their common benefit.
 
 
 The pledge
