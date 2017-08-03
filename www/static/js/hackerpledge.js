@@ -33,7 +33,7 @@ $(document).ready(function () {
     });
 
     $(".companies-list").html("Loading...");
-    $.get("/api/pledge/all", function(pledges) {
+    $.getJSON("https://www.dotconferences.com/api/pledges", function(pledges) {
         pledges = shuffle(pledges);
 
         var html = "";

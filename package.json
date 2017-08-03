@@ -1,10 +1,9 @@
 {
-  "name" : "hackerpledge",
-  "private" : true,
-  "version" : "0.0.1",
-  "dependencies" : {
-    "express" : "3.x",
-    "less": "1.7.0",
-    "http-proxy": "0.8.7"
+  "name": "hackerpledge",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x",
+    "less": "1.7.0"
   }
 }
